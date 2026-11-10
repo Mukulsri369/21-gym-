@@ -1,0 +1,6 @@
+{
+  "name": "21 Fitness — Private Architectural Performance Club",
+  "description": "Interactive 3D luxury fitness club and bespoke athletic performance sanctuary featuring a real-time WebGL equipment configurator, biomechanics lab, and private membership concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
